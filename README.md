@@ -9,3 +9,7 @@ amplia gamma de problemas de interferencia. el script es totalmente agnostico co
 tp_numerico.c:
 version en C del script anterior, ese es muy lento, actualmente sin terminar.
 
+cuerda.py:
+simulador de una cuerda ideal perfectamente elastica sin amortiguamiento. para usarlo se debe proveer una implementacion de las funciones
+que describen las condiciones iniciales o fijar la cte. INPUT_MODOS a true y dar valores para las amplitudes de los modos normales.
+
